@@ -4,3 +4,4 @@ This repository contains a set of small programs to assess the speed-up of parti
 
 - rotVelField.m: Illustration of the flow field as a Matlab quiver plot.
 - verletTestArray.cpp: Main program using array representation of the position and velocity vectors.
+- verletTestEigen.cpp: Main program using Eigen representation of the position and velocity vectors.
